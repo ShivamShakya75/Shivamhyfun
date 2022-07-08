@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shivam shakya
 - 👀 I’m interested in programming
-- 🌱 I’m currently work on python 
+- 🌱 I’m currently work on python,C++ and Java
+-   I'm an Web developer and Android developer
 - 📫 How to reach me: Twitter- @shivam_ts
